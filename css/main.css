@@ -6163,3 +6163,20 @@ a > .certificate-item:hover {
     margin: 0 auto;
   }
 }
+
+.skill-container {
+  position: relative;
+  height: 20px;
+  background: #f3f3f3;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.skill-percentage {
+  position: absolute;
+  height: 100%;
+  background: #3498db;
+  width: 0;
+  border-radius: 5px;
+  transition: width 2s ease-in-out;
+}
