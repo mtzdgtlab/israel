@@ -4,5 +4,8 @@
         "Tochito",
         "Universidad",
         "vcard"
+    ],
+    "cSpell.enableFiletypes": [
+        "html"
     ]
 }
